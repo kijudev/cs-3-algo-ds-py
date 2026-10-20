@@ -9,7 +9,7 @@
 
 ### 02 - Algorytmy obliczeniowe
 
-- [ ] 1. NWD i NWW
+- [x] 1. NWD i NWW
 - [ ] 2. Generator liczb pseudolosowych Fibonacciego
 - [ ] 3. Generator liczb pseudolosowych LFG
 - [ ] 4. Generator liczb pseudolosowych LCG
