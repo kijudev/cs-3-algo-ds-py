@@ -20,7 +20,7 @@
 
 - [x] 1. Kolejka
 - [ ] 2. Kolejka z priorytetem
-- [ ] 3. Stos
+- [x] 3. Stos
 - [ ] 4. Lista jednokierunkowa
 - [ ] 5. Lista dwukierunkowa
 - [ ] 6. Lista cykliczna
