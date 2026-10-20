@@ -1,3 +1,6 @@
+# @author Jakub Kijek
+# @date 2026.10.20
+
 def biggest_number(string: str):
     return max([float(n) for n in string.split(";")])
 

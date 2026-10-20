@@ -48,7 +48,7 @@
 ### 07 - Algorytmy sortowania
 
 - [ ] 1. Wstawianie (insertsort)
-- [ ] 2. Bąbelkowe (bubblesort)
+- [x] 2. Bąbelkowe (bubblesort)
 - [ ] 3. Szybkie (quicksort)
 - [ ] 4. Stogowe (heapsort)
 - [ ] 5. Przez scalanie (mergesort)
