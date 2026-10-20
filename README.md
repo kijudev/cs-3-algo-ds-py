@@ -18,7 +18,7 @@
 
 ### 03 - Algorytmy obsługi masowej
 
-- [ ] 1. Kolejka
+- [x] 1. Kolejka
 - [ ] 2. Kolejka z priorytetem
 - [ ] 3. Stos
 - [ ] 4. Lista jednokierunkowa
