@@ -4,7 +4,7 @@
 
 ### 01 - Algorytmy podstawowe
 
-- [ ] 1. Wyszukiwanie największej liczby w danym zbiorze (każda liczba oddzielona średnikiem, mogą to być liczby zmiennoprzecinkowe)
+- [x] 1. Wyszukiwanie największej liczby w danym zbiorze (każda liczba oddzielona średnikiem, mogą to być liczby zmiennoprzecinkowe)
 - [ ] 2. Konwersja odwrotnej notacji polskiej (w obie strony)
 
 ### 02 - Algorytmy obliczeniowe
