@@ -1,3 +1,6 @@
+# @author Jakub Kijek
+# @date 2026.10.20
+
 class Stack:
     def __init__(self):
         self.data = []
