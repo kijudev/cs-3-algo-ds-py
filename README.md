@@ -51,7 +51,7 @@
 - [x] 2. Bąbelkowe (bubblesort)
 - [ ] 3. Szybkie (quicksort)
 - [ ] 4. Stogowe (heapsort)
-- [ ] 5. Przez scalanie (mergesort)
+- [x] 5. Przez scalanie (mergesort)
 
 ### 08 - Algorytmy heurystyczne
 
