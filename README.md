@@ -50,7 +50,7 @@
 - [x] 1. Wstawianie (insertsort)
 - [x] 2. Bąbelkowe (bubblesort)
 - [ ] 3. Szybkie (quicksort)
-- [ ] 4. Stogowe (heapsort)
+- [x] 4. Stogowe (heapsort)
 - [x] 5. Przez scalanie (mergesort)
 
 ### 08 - Algorytmy heurystyczne
